@@ -45,9 +45,7 @@ cd urban-delivery-simulator
 ---
 ## Endpoints
 
-- Aplicação principal: http://localhost:8080
-
-- Console do H2: http://localhost:8080/h2-console
+- Console do H2: http://localhost:port/h2-console
 
 - GET /pedidos -> retorna a lista com todos os pedidos
 
